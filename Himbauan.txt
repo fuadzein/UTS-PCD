@@ -1,0 +1,4 @@
+Himbauan : 
+
+Untuk percobaan kali ini saya mengambil gambar bukan di satu file dengan project ini, 
+melainkan di luar project.
